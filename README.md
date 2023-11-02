@@ -1,6 +1,10 @@
-# Data Scientist
+# Reseach Assistant
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Research Interests: 
+Currently, I am interested in complex systems. My goal is to work on 'large population models' that collectively learn from millions of interacting agents to guide decision making.
+
+
+
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
